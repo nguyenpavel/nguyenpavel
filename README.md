@@ -25,14 +25,8 @@ _AI Engineer • Data & Product Builder_
   <a href="https://github.com/nguyenpavel" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK" target="_blank">
+  <a href="[YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/nguyenpavel/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="28" />
-  </a>
-  <a href="YOUR_X_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white" height="28" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white" height="28" />
   </a>
 </p>
 
