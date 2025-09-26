@@ -1,5 +1,5 @@
 <!--
-  Profile README — Pavel Nguyen
+  Profile README - Pavel Nguyen
   Tips:
   - Replace YOUR_LINK_HERE with real links
   - Update featured repos in the Projects sections
@@ -121,23 +121,23 @@ _AI Engineer • Data & Product Builder_
 <details>
   <summary><b>Project highlights (click to expand)</b></summary>
 
-- **DebitScore ML** — risk scoring from bank transactions (feature store, time-series aggregations, model monitoring).  
-- **Compliance Copilot (RAG)** — document QA with citational answers, policy diffing, and evals.  
-- **Demand Forecasting** — dbt + BigQuery pipeline, hierarchical weekly forecasts for SKUs/regions.  
-- **Churn & LTV** — survival analysis + uplift modeling to prioritize retention offers.  
-- **Anomaly Radar** — unsupervised detection for payments/ops metrics with alerting & root-cause notes.  
+- **DebitScore ML** - risk scoring from bank transactions (feature store, time-series aggregations, model monitoring).  
+- **Compliance Copilot (RAG)** - document QA with citational answers, policy diffing, and evals.  
+- **Demand Forecasting** - dbt + BigQuery pipeline, hierarchical weekly forecasts for SKUs/regions.  
+- **Churn & LTV** - survival analysis + uplift modeling to prioritize retention offers.  
+- **Anomaly Radar** - unsupervised detection for payments/ops metrics with alerting & root-cause notes.  
 </details>
 
 ---
 
 ## ✨ Fancy Projects (business impact)
 
-- 🧮 **Retail Demand Forecasting** — multi-store, multi-SKU forecasts with holiday & promo features; feeds inventory reorder suggestions.  
-- 🧠 **Customer Churn Early-Warning** — gradient-boosted + calibration; auto-generates “next best action” playbooks.  
-- 🪪 **Debit Behavior Credit Alternative** — feature engineering from transaction graphs to build an explainable “debit score.”  
-- 📦 **Pricing Elasticity Explorer** — bayesian models to simulate price changes and margin impact per product cluster.  
-- 🔍 **RAG for Regulated Docs** — retrieval over regulations/contracts; redline diffs, citations, and factuality checks.  
-- 📈 **Revenue Analytics Suite** — GA4 + sales + CRM in BigQuery, dbt models, and Looker dashboards with cohorting & LTV.
+- 🧮 **Retail Demand Forecasting** - multi-store, multi-SKU forecasts with holiday & promo features; feeds inventory reorder suggestions.  
+- 🧠 **Customer Churn Early-Warning** - gradient-boosted + calibration; auto-generates “next best action” playbooks.  
+- 🪪 **Debit Behavior Credit Alternative** - feature engineering from transaction graphs to build an explainable “debit score.”  
+- 📦 **Pricing Elasticity Explorer** - bayesian models to simulate price changes and margin impact per product cluster.  
+- 🔍 **RAG for Regulated Docs** - retrieval over regulations/contracts; redline diffs, citations, and factuality checks.  
+- 📈 **Revenue Analytics Suite** - GA4 + sales + CRM in BigQuery, dbt models, and Looker dashboards with cohorting & LTV.
 
 ---
 
@@ -145,10 +145,10 @@ _AI Engineer • Data & Product Builder_
 
 <p>
   <img width="49%" src="https://streak-stats.demolab.com/?user=nguyenpavel&theme=react&hide_border=false&card_height=200" alt="streak" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nguyenpavel&show_icons=true&theme=react&hide_border=false&rank_icon=github&card_width=320" alt="stats" />
 </p>
 
 <p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenpavel&layout=compact&theme=react&hide_border=false" alt="top-langs" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenpavel&theme=github_dark" alt="summary" />
 </p>
 
@@ -156,6 +156,6 @@ _AI Engineer • Data & Product Builder_
 
 ## 🤝 Let’s Collaborate
 
-I enjoy shipping useful tools for data-heavy teams. If you’re exploring **AI copilots, RAG systems, analytics platforms,** or **e-commerce automation**, ping me—happy to chat.
+I enjoy shipping useful tools for data-heavy teams. If you’re exploring **AI copilots, RAG systems, analytics platforms,** or **AI automation**, ping me-happy to chat.
 
 > _“Ship small, measure, iterate.”_
