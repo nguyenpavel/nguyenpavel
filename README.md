@@ -149,7 +149,6 @@ _AI Engineer • Data & Product Builder_
 </p>
 
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenpavel&layout=compact&theme=react&hide_border=false" alt="top-langs" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenpavel&theme=github_dark" alt="summary" />
 </p>
 
