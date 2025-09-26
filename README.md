@@ -22,10 +22,10 @@ _AI Engineer • Data & Product Builder_
 ### 🔗 Connect with me
 
 <p>
-  <a href="https://github.com/nguyenpavel" target="_blank">
+  <a href="https://github.com/nguyenpavel">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28" />
   </a>
-  <a href="https://www.linkedin.com/in/nguyenpavel/" target="_blank">
+  <a href="https://www.linkedin.com/in/nguyenpavel/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="28" />
   </a>
 </p>
