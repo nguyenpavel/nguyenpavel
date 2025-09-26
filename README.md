@@ -102,7 +102,6 @@ _AI Engineer • Data & Product Builder_
 <div style="display:flex;flex-wrap:wrap;gap:6px">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" height="24" />
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?logo=googleanalytics&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" height="24" />
 </div>
 
 ---
