@@ -112,8 +112,8 @@ _AI Engineer • Data & Product Builder_
 
 <p>
   <!-- Swap these repo names for yours -->
-  <a href="https://github.com/nguyenpavel/debit-score-ml">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenpavel&repo=debit-score-ml&bg_color=30,e11d48,7c3aed,2563eb&title_color=fff&text_color=fff&icon_color=fff&show_owner=true" />
+  <a href="https://github.com/nguyenpavel/LLM-Assisted-Grocery-Sales-Forecasting">
+    <img src="https://github.com/nguyenpavel/LLM-Assisted-Grocery-Sales-Forecasting&bg_color=30,e11d48,7c3aed,2563eb&title_color=fff&text_color=fff&icon_color=fff&show_owner=true" />
   </a>
   <a href="https://github.com/nguyenpavel/rag-compliance-assistant">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenpavel&repo=rag-compliance-assistant&bg_color=30,22c55e,06b6d4,2563eb&title_color=fff&text_color=fff&icon_color=fff&show_owner=true" />
@@ -129,30 +129,6 @@ _AI Engineer • Data & Product Builder_
 - **Churn & LTV** - survival analysis + uplift modeling to prioritize retention offers.  
 - **Anomaly Radar** - unsupervised detection for payments/ops metrics with alerting & root-cause notes.  
 </details>
-
----
-
-## ✨ Fancy Projects (business impact)
-
-- 🧮 **Retail Demand Forecasting** - multi-store, multi-SKU forecasts with holiday & promo features; feeds inventory reorder suggestions.  
-- 🧠 **Customer Churn Early-Warning** - gradient-boosted + calibration; auto-generates “next best action” playbooks.  
-- 🪪 **Debit Behavior Credit Alternative** - feature engineering from transaction graphs to build an explainable “debit score.”  
-- 📦 **Pricing Elasticity Explorer** - bayesian models to simulate price changes and margin impact per product cluster.  
-- 🔍 **RAG for Regulated Docs** - retrieval over regulations/contracts; redline diffs, citations, and factuality checks.  
-- 📈 **Revenue Analytics Suite** - GA4 + sales + CRM in BigQuery, dbt models, and Looker dashboards with cohorting & LTV.
-
----
-
-## 📈 GitHub Stats
-
-<p>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=nguyenpavel&theme=react&hide_border=false&card_height=200" alt="streak" />
-</p>
-
-<p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenpavel&layout=compact&theme=react&hide_border=false" alt="top-langs" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenpavel&theme=github_dark" alt="summary" />
-</p>
 
 ---
 
