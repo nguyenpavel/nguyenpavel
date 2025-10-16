@@ -1,14 +1,13 @@
 <!--
   Profile README - Pavel Nguyen
   Tips:
-  - Replace YOUR_LINK_HERE with real links
-  - Update featured repos in the Projects sections
+  - Update featured repos in the Projects section
   - Keep image heights similar for a balanced layout
 -->
 
 <div align="center">
 
-# 👋 Hi, my name is **Pavel**  
+# 👋 Hi, I’m **Pavel**
 _AI Engineer • Data & Product Builder_
 
 <a href="https://github.com/nguyenpavel">
@@ -20,7 +19,6 @@ _AI Engineer • Data & Product Builder_
 ---
 
 ### 🔗 Connect with me
-
 <p>
   <a href="https://github.com/nguyenpavel">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="28" />
@@ -35,15 +33,14 @@ _AI Engineer • Data & Product Builder_
 ---
 
 ## 🚀 What I do
-
-- Ship AI products end-to-end: data pipelines → LLM/RAG → UX → deployment  
-- Build **predictive models** that solve business problems: **forecasting, churn & LTV, risk scoring, anomaly detection**  
-- Blend **Python, TypeScript, dbt, BigQuery, GCP/AWS, Docker** to deliver reliable, observable systems  
+- Ship AI products end-to-end: **data pipelines → RAG/LLMs → UX → deployment**
+- Build **predictive models** for **forecasting, churn/LTV, risk scoring, anomaly detection**
+- Blend **Python, TypeScript, dbt, BigQuery, GCP/AWS, Docker** to deliver reliable, observable systems
 - Love **LLM evals, prompt tooling, vector search, analytics**, and automation
 
 **Right now**
-- 🔭 Building: AI compliance tooling and data apps  
-- 💬 Ask me about: **React/TS, Node, Python, data pipelines, RAG, OpenAI, LangChain**
+- 🔭 Building AI compliance tooling and data apps  
+- 💬 Ask me about **React/TS, Node, Python, data pipelines, RAG, OpenAI, LangChain**
 
 ---
 
@@ -111,27 +108,49 @@ _AI Engineer • Data & Product Builder_
 ## 🌟 Featured Projects
 
 <p>
-  <!-- Swap these repo names for yours -->
   <a href="https://github.com/nguyenpavel/LLM-Assisted-Grocery-Sales-Forecasting">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenpavel&repo=LLM-Assisted-Grocery-Sales-Forecasting&bg_color=30,e11d48,7c3aed,2563eb&title_color=fff&text_color=fff&icon_color=fff&show_owner=true" />
   </a>
+  <a href="https://github.com/nguyenpavel/rag-with-llm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenpavel&repo=rag-with-llm&bg_color=30,22c55e,06b6d4,2563eb&title_color=fff&text_color=fff&icon_color=fff&show_owner=true" />
+  </a>
+</p>
+<p>
   <a href="https://github.com/nguyenpavel/Multi-Platform-Spam-Classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenpavel&repo=Multi-Platform-Spam-Classification&bg_color=30,f59e0b,ef4444,7c3aed&title_color=fff&text_color=fff&icon_color=fff&show_owner=true" />
+  </a>
+  <a href="https://github.com/nguyenpavel/LoanDefaultsPrediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenpavel&repo=LoanDefaultsPrediction&bg_color=30,06b6d4,2563eb,0ea5e9&title_color=fff&text_color=fff&icon_color=fff&show_owner=true" />
   </a>
 </p>
 
 <details>
   <summary><b>Project highlights (click to expand)</b></summary>
 
-- **DebitScore ML** - risk scoring from bank transactions (feature store, time-series aggregations, model monitoring).  
-- **Compliance Copilot (RAG)** - document QA with citational answers, policy diffing, and evals.  
-- **Demand Forecasting** - dbt + BigQuery pipeline, hierarchical weekly forecasts for SKUs/regions.  
-- **Churn & LTV** - survival analysis + uplift modeling to prioritize retention offers.  
-- **Anomaly Radar** - unsupervised detection for payments/ops metrics with alerting & root-cause notes.  
+### 🧠 LLM-Assisted Grocery Sales Forecasting
+- Benchmarks **SARIMA, Neural Prophet, LSTM, RF, MLP** with **GPT-4 vs Claude-3** in autonomous vs assistive modes  
+- Representative result: **Neural Prophet RMSLE ≈ 0.1458** (GPT-4, role: Data Scientist); explores prompt-role/sentiment effects  
+- Repro tips: deterministic seeds, leakage guards, schema validation
+
+### 🎲 BoardGame RAG (AWS-native)
+- Serverless RAG over 150k+ games + rulebook PDFs  
+- **Kendra retrieval + Bedrock (Claude)**, optional **OpenSearch vectors**, **Cognito auth**, **Amplify** UI  
+- Glue/Step Functions ingest; CI/CD via CodeBuild/CodePipeline; cost/monitoring guardrails
+
+### 🧹 Multi-Platform Spam Classification
+- Spam detectors across **email/SMS/YouTube** using **TF-IDF+NB**, **FastText+MLP**, **DistilBERT**  
+- In-domain: DistilBERT up to **0.992 acc**; under domain shift all models drop—analysis of precision/recall trade-offs  
+- Future: domain adaptation, hard-negative mining, lightweight adapters
+
+### 💳 Loan Default Prediction
+- **LendingClub 1.3M rows**; application-time only (no leakage)  
+- **ROC AUC ≈ 0.73** with **Random Forest/XGBoost**; engineered features (FICO composite, credit history length, installment/income)  
+- Next: calibrated probabilities, cost-aware thresholding, LightGBM/CatBoost
 </details>
 
 ---
 
-## 🤝 Let’s Collaborate
-
-I enjoy shipping useful tools for data-heavy teams. If you’re exploring **AI copilots, RAG systems, analytics platforms,** or **AI automation**, ping me-happy to chat.
+## 🤝 Let’s collaborate
+I enjoy shipping useful tools for data-heavy teams. If you’re exploring **AI copilots, RAG systems, analytics platforms**, or **AI automation**, ping me — happy to chat.
 
 > _“Ship small, measure, iterate.”_
