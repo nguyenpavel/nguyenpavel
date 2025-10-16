@@ -113,10 +113,8 @@ _AI Engineer • Data & Product Builder_
 <p>
   <!-- Swap these repo names for yours -->
   <a href="https://github.com/nguyenpavel/LLM-Assisted-Grocery-Sales-Forecasting">
-    <img src="https://github.com/nguyenpavel/LLM-Assisted-Grocery-Sales-Forecasting&bg_color=30,e11d48,7c3aed,2563eb&title_color=fff&text_color=fff&icon_color=fff&show_owner=true" />
   </a>
-  <a href="https://github.com/nguyenpavel/rag-compliance-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenpavel&repo=rag-compliance-assistant&bg_color=30,22c55e,06b6d4,2563eb&title_color=fff&text_color=fff&icon_color=fff&show_owner=true" />
+  <a href="https://github.com/nguyenpavel/Multi-Platform-Spam-Classification">
   </a>
 </p>
 
